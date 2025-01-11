@@ -11,7 +11,7 @@ export default function Header() {
 				</Link>
 			</div>
 			<div className="flex items-center gap-4">
-				<form className="flex w-[320px] items-center gap-3 rounded-full bg-zinc-900 px-5 py-3 ring-zinc-700">
+				<form className="flex w-[320px] items-center gap-3 rounded-xl bg-zinc-900 px-5 py-3 ring-zinc-700">
 					<Search className="size-5 text-zinc-500" />
 					<input
 						placeholder="Buscar produtos..."
