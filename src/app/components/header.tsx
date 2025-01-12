@@ -3,6 +3,7 @@ import { Search, ShoppingBag } from 'lucide-react'
 import Image from 'next/image'
 
 export default function Header() {
+
 	return (
 		<div className="flex items-center justify-between">
 			<div className="flex items-center gap-5">
